@@ -1,7 +1,7 @@
 # Export for iTunes – Music Library Exporter and Playlist Backup Tool
 
 <p align="center">
-  <img src="https://static.macupdate.com/products/51324/l/export-for-itunes-logo.png?v=1656510744" width="150" alt="Export for iTunes icon"/>
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/1f/b2/931fb2b3-eec7-b09e-5113-a8e8ae3fa92d/Placeholder.mill/200x200bb-75.webp" width="150" alt="Export for iTunes icon"/>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ The <a href="#exportForiTunes">library backup use case</a> creates organized cop
 The <a href="#exportForiTunes">external device loading use case</a> copies music with proper organization to external drives, NAS devices, and other storage destinations where files need the artist/album structure rather than the iTunes Media folder's internal organization. The <a href="#exportForiTunes">library documentation use case</a> exports library metadata to CSV for external catalog management, identifying duplicates through spreadsheet analysis, or creating reference documentation of the collection.</p>
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/331446/m/export-for-itunes-screenshot.png?v=1656510750" alt="Export for iTunes screenshot"/>
+  <img src="https://images.squarespace-cdn.com/content/v1/5429c98be4b06c998a91a95e/1648627500958-P6W6GU1MNSNILVCEOV7E/ExportForItunes+2.png" alt="Export for iTunes screenshot"/>
 </p>
 
 <a href="#exportForiTunes">Playlist file compatibility</a> across M3U, XSPF, and other formats covers the playlist format each destination player expects — different music software expects different playlist file formats. <a href="#exportForiTunes">Handles Apple Music DRM considerations</a> — Export for iTunes works with files that are accessible in the library; DRM-protected files that cannot be accessed externally are handled appropriately.
